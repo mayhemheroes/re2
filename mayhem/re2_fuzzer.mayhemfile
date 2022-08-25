@@ -1,0 +1,4 @@
+project: PROJECT
+target: re2_fuzzer
+cmds:
+- cmd: /out/re2_fuzzer
